@@ -160,12 +160,13 @@ This project was created to practice fundamental Python programming concepts whi
 
 ---
 
-<div align="center">
+<footer align="center">
 
-### 🐍 Built with Python
+**© 2026 Dhrubo Dey • CY01-Hub**
 
-**Learn. Play. Improve. Repeat.**
+**Quiz Management System** — A simple and interactive system for creating, managing and evaluating quizzes efficiently.
 
-⭐ If you enjoyed the project, consider giving the repository a star!
+`BUILD → UNDERSTAND → IMPROVE`
 
-</div>
+</footer>
+
